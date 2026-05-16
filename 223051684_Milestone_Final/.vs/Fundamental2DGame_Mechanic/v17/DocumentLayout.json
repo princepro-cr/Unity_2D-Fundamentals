@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|c:\\users\\princ\\onedrive\\documents\\fundamental2dgame_mechanic\\assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88039721-0314-B050-15D4-72E9309EA167}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\CoinBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CoinBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Library\\PackageCache\\com.unity.ugui@bb329a87fcdc\\Runtime\\TMP\\TMP_PackageResourceImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@bb329a87fcdc\\Runtime\\TMP\\TMP_PackageResourceImporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T23:04:37.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:51:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeathZone.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathZone.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\DeathZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T23:10:54.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyPatrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T00:18:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T22:00:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinScript.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T16:54:16.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\CoinBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinBehavior.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Assets\\Scripts\\CoinBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinBehavior.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T22:22:11.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TMP_PackageResourceImporter.cs",
+              "DocumentMoniker": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Library\\PackageCache\\com.unity.ugui@bb329a87fcdc\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@bb329a87fcdc\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
+              "ToolTip": "C:\\Users\\Princ\\OneDrive\\Documents\\Fundamental2DGame_Mechanic\\Library\\PackageCache\\com.unity.ugui@bb329a87fcdc\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@bb329a87fcdc\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAADZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T23:25:28.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
