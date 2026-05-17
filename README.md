@@ -1,123 +1,137 @@
-#  2D Platformer Game
+# Zone Runner — 2D Platformer
 
-This project is a polished 2D platformer game developed in Unity as part of a game development assignment. The game demonstrates core game development principles including player movement, physics, animations, UI systems, collectibles, hazards, and overall gameplay design.
-
-Players navigate through multiple environments while avoiding obstacles, collecting coins, and surviving dangerous platforming sections.
+A polished 2D platformer developed in Unity as part of a game development assignment. Players navigate through three distinct environments — Forest, Savanna, and Space — collecting coins, defeating enemies with a spike throw mechanic, and surviving increasingly challenging platforming sections.
 
 ---
 
-#  Features
+## Features
 
-- Smooth and responsive player movement
-- Platform jumping mechanics
-- Coin collection system
-- Lives/health system
-- Enemy and hazard interactions
-- Collision and physics mechanics
-- Animated characters and objects
-- UI/HUD using TextMeshPro
-- Camera follow system
-- Sound effects and background music
-- Multiple environments and level progression
-- Game Over condition
+### Gameplay
+- Smooth, responsive player movement with jump feel (fall multiplier, short hop vs full jump)
+- Spike throw mechanic — press **F** to throw a projectile that destroys enemies
+- Coin collection system with win condition
+- Lives system (3 lives) with Game Over condition
+- Kill counter tracking enemies defeated
+- Checkpoint system per zone
+
+### Environments
+- 3 distinct zones — Forest, Savanna, Space — each with unique lighting, music, and ground materials
+- Smooth zone transition system with crossfading music and lighting
+- Platform surface labels (Mossy Ground, Wooden Platform, Alien Surface)
+- Physics materials per zone — grippy forest, normal savanna, slippery space
+
+### Camera
+- SmoothDamp follow with dead zone to reduce jitter
+- Look-ahead in movement direction so players see what's coming
+- Look-down on fall so players see their landing
+- Camera bounds clamped to level extents
+- Screen shake on death
+
+### Audio
+- Zone-specific background music with smooth crossfade on zone transition
+- Full SFX set: coin collect, jump, land, hurt, die, win, spike throw
+
+### UI / HUD
+- Coins, Lives, and Kills counters using TextMeshPro
+- Platform label display
+- Win and Game Over screens with session stats (coins collected, enemies defeated)
+- Canvas Scaler set to Scale With Screen Size (1920×1080)
+
+### Polish
+- Coin collect particle burst effect
+- Leg swing walking animation
+- Angry character design with eyebrow and mouth expressions
+- Firefly particle ambience in the forest zone
 
 ---
 
-# 🛠️ Technologies Used
+## Technologies Used
 
-- Unity 2D
+- Unity 2D (URP)
 - C#
 - TextMeshPro
-- Unity Physics Engine
+- Unity Physics Engine 2D
+- Unity Particle System
 - Unity Animation System
-- URP
+- Unity Audio Mixer
 
 ---
 
-# Project Objectives
-
-The purpose of this project was to create a complete 2D game that demonstrates:
-
-- Gameplay programming
-- Physics and collision handling
-- UI and HUD implementation
-- Animation systems
-- Audio integration
-- Level design principles
-- Game polish and player experience
-
----
-
-# 🎮 Gameplay
-
-The game focuses on:
-- Exploration
-- Platforming challenges
-- Collecting coins
-- Avoiding hazards
-- Reaching the end of each section while maintaining lives
-
----
-
-#  Getting Started
-
-## Requirements
-
-- Unity Hub
-- Unity Editor
-
----
-
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/your-repository-name.git
-```
-
-2. Open the project using Unity Hub
-
-3. Load the main scene
-
-4. Press Play
-
----
-
-# 🎹 Controls
+## Controls
 
 | Action | Key |
 |---|---|
 | Move Left | A / Left Arrow |
 | Move Right | D / Right Arrow |
 | Jump | Space |
+| Throw Spike | F |
 
 ---
 
-#  Future Improvements
+## Getting Started
 
-- Additional levels
-- Improved enemy AI
-- More animations
-- Power-ups and abilities
-- Main menu improvements
-- Better visual effects
-- Mobile support
+### Requirements
+- Unity Hub
+- Unity Editor (2022.3 LTS or newer recommended)
 
----
-
-# Developer
-
-Developed by Promise Semosa
-
-Information Technology graduate passionate about:
-- Software Development
-- Game Development
-- Mobile Applications
-- UI/UX Design
+### Installation
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/your-repository-name.git
+```
+2. Open the project using Unity Hub
+3. Open `Assets/Scenes/SampleScene`
+4. Press Play
 
 ---
 
-# License
+## Project Structure
+
+```
+Assets/
+├── Audio/
+│   ├── Music/          # Zone background tracks
+│   └── SFX/            # Sound effects
+├── Animations/         # Animation clips and controllers
+├── Prefabs/
+│   ├── Collectibles/   # Coin prefab
+│   ├── Enemies/        # SlimeEnemy prefab
+│   └── Spike/          # Spike projectile prefab
+├── Scenes/             # SampleScene
+├── Scripts/
+│   └── Managers/       # GameManager, ZoneLightingController, CheckpointManager
+└── PhysicalMaterial2D/ # Physics materials per zone
+```
+
+---
+
+## Game Design Highlights
+
+- **Zone progression** — coins placed as breadcrumbs to guide players left to right through each zone
+- **Difficulty ramp** — Forest (ground level, easy jumps) → Savanna (staircase platforms) → Space (large gaps, slippery surface)
+- **Risk/reward** — coins placed near enemies reward players who use the spike throw
+- **Audio feedback** — every player action has a corresponding sound effect for maximum responsiveness
+
+---
+
+## Future Improvements
+
+- Additional levels and zones
+- Mobile touch controls
+- Enemy patrol AI improvements
+- Power-ups (double jump, rapid fire spikes)
+- Main menu and loading screen
+- Leaderboard / high score system
+
+---
+
+## Developer
+
+**Promise Semosa**  
+Information Technology student passionate about software development, game development, mobile applications, and UI/UX design.
+
+---
+
+## License
 
 This project is for educational and portfolio purposes.
